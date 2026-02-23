@@ -1,0 +1,78 @@
+:root {
+    --main-bg-color: #FFE6E6;
+    --main-color-light: #E1AFD1;
+    --main-color-medium: #AD88C6;
+    --main-color-dark: #7469B6;
+    --main-color-darker: #170027;
+}
+
+header {
+    background-color: var(--main-color-light);
+    border-radius: 3vh;
+    padding: 2.5vh;
+    margin: 3vh 1.3vh;
+    box-shadow: 2px 2px var(--main-color-medium);
+}
+#title {
+    color: var(--main-color-dark);
+    font-family: "Bitcount Grid Double", sans-serif;
+    font-size: 9vh;
+    text-shadow: 2px 2px var(--main-color-medium);
+}
+
+
+body{
+    background-color: var(--main-bg-color);
+}
+
+.wrapper{
+    display: flex;
+
+}
+
+.leftTexts{
+    display:flex;
+    flex-direction: column;
+    width: 25%;
+}
+.rightTexts{
+    display:flex;
+    flex-direction: column;
+    width: 75%;
+}
+.elements{
+    background-color: var(--main-color-light);
+    padding: 3.5vh;
+    border-radius: 3vh;
+    margin: 2.5vh;
+    box-shadow: 2px 2px var(--main-color-medium);
+}
+
+#MainImage{
+    border-radius: 3vh;
+    border: 1.3vh solid var(--main-color-light);
+    background-color: var(--main-bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.projectImage {
+    width: 20vh;
+    height: auto;
+}
+
+.elementTitle {
+    color: var(--main-color-dark);
+    font-family: "Bitcount Grid Double", sans-serif;
+    font-size: 5vh;
+    text-shadow: 2px 2px var(--main-color-medium);
+}
+
+.text {
+    color: var(--main-color-darker);
+    font-family: "Bitcount Grid Double", sans-serif;
+    font-size: 2.5vh;
+    line-height: 4vh;
+}
