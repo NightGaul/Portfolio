@@ -1,0 +1,14 @@
+{
+  "title": "Blewming",
+  "role": [
+    "Programmer",
+    "Blogger",
+    "Director"
+  ],
+  "team": "2 People (1 Programmer, 1 Artist)",
+  "description": "Blewming is an atmospheric game that focuses on cozy interactions, blowing away flower petals in a cute valley.",
+  "reflection": "This was a project I did with an artist. I spent a lot of time applying the vector math I learned in the previous semester and really enjoyed fiddling with equations. My approach also got a lot cleaner. Even as the only programmer again, I would say my product got better and better.\n\nI was essentially the planner and director and, while I was capable in that department, I did notice that I prefer being in my little programming and thinking bubble.",
+  "focus": [
+    "Application of vector math"
+  ]
+}

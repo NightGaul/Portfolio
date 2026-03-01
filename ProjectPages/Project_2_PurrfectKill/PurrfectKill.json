@@ -1,0 +1,13 @@
+{
+  "title": "Purrfect Kill",
+  "role": [
+    "Programmer",
+    "Blogger"
+  ],
+  "team": "4 People (2 Programmers, 2 Artists)",
+  "description": "In Purrfect Kill you play as a cat — but not just any cat. You are an assassin! Because who would ever think to be killed by a cat? Exactly! As a nimble killer, it is your job to locate your targets, scope out the property, and find a way to successfully finish your mission without being caught.",
+  "reflection": "Another game about a cat :) With two programmers and two artists, it was a very different experience this time around. I learned a lot about version control, redundancies, clean code, peer reviewing, and code etiquette. My programming partner was a very savvy programmer with a lot of experience and a knack for perfection. They taught me a lot and I made huge progress in my abilities. Even though it was straining to review every single thing to perfection and maybe also a bit redundant for the scope and intent of the game. Nevertheless, I profited a lot from the experience.\n\nThe game was quite complicated to program, with NPC behaviour, a progress system, and unconventional player movement. It would need a lot more work even for a demo. But the base is pretty solid.",
+  "focus": [
+    "Being part of a team and creating clean code"
+  ]
+}

@@ -87,6 +87,7 @@ body{
     width: 40vw;
     height: auto;
     border-radius: 3vh;
+    margin-bottom: 2vh;
 }
 .elementInsight{
     margin: 5vh;
@@ -107,13 +108,21 @@ body{
 
 .insightImageVertical{
     height: auto;
-    width: 25vw;
+    width: 20vw;
     border-radius: 3vh;
     margin-bottom: 2vh;
+    background-color: var(--main-bg-color);
+    margin-right: 2vh;
+
 }
 
-.pictureAndTextVertical .imageTexts{
+.imageAndTextVertical .imageTexts{
     width: 100%;           /* match image width */
     max-width: fit-content;
     text-align: left;
+}
+
+.twoVerticalImages{
+    display: flex;
+    flex-direction: row;
 }

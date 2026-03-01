@@ -35,9 +35,15 @@ body {
 }
 
 .Projects {
+    height: 30vh;
+    width: 20vh;
     border-radius: 3vh;
     border: 1.3vh solid var(--main-color-light);
     background-color: var(--main-bg-color);
     margin: 2.5vh;
     box-shadow: 2px 2px var(--main-color-medium);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

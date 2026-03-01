@@ -1,4 +1,4 @@
-const url = 'Project1.json'
+const url = 'Template.json'
 
 // Function to fetch data and update HTML
 async function fetchAndDisplayProducts() {

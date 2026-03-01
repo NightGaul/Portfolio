@@ -1,0 +1,13 @@
+{
+  "title": "You are not the hero",
+  "role": [
+    "Programmer",
+    "Background Artist"
+  ],
+  "team": "4 People (2 Programmers, 2 Artists)",
+  "description": "You are not the main character of the story. You are the sidekick of a hero! It is your job to find out which monster is threatening a small fantasy town and then send the hero into battle with the right tactics and equipment. Can you figure out what you're up against?",
+  "reflection": "Another four-person team with two programmers and two artists. This time with another programming partner. I learned Godot during this time, which worked pretty well. What I noticed during this was that, because of my lack of experience, I’m not too set in my ways and can be pretty flexible with tools. I can switch roles if necessary and produce a usable outcome without too many difficulties. At the end of the project, I really noticed that I thrive as a generalist.",
+  "focus": [
+    "Trying a new engine and clean code structure"
+  ]
+}
